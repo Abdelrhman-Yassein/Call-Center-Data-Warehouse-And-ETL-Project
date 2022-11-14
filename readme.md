@@ -10,7 +10,7 @@ Call Center Data [this](https://data.world/markbradbourne/rwfd-real-world-fake-d
 
 
 ## Star-Schema Model
-![Star-Schema](images\call-center.png)
+![Star-Schema](https://raw.githubusercontent.com/Abdelrhman-Yassein/Call-Center-Data-Warehouse-And-ETL-Project/main/images/call-center.png)
 
 
 ## What You Need To Use Your Project
